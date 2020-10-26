@@ -1,0 +1,2 @@
+﻿  z 15.cpp
+C:\Users\sving\Desktop\Programming\Practice\15\C++\z 15\z 15.cpp(14): error C4700: использована неинициализированная локальная переменная "x"
