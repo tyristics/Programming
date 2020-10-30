@@ -1,12 +1,14 @@
 ﻿#include <iostream>
-#include <random>
+#include <cstdlib>
+#include <ctime>
 using namespace std;
 int main()
 {   
     int qw, z, n, x;
     qw = 1;
     while (qw == 1) {
-        n = rand() % 101;
+        srand(static_cast<unsigned int>(time(0)));
+        int x = rand() % 101 + 0
         cout << "Приветственное сообщение от игры";
         cin >> n;
         z = 4;
