@@ -1,0 +1,4 @@
+﻿  Header.cpp
+C:\Users\sving\Desktop\Programming\Practice\23\C++\z 23\Header.cpp(5,19): error C2082: переопределение формального параметра "b"
+  z 23.cpp
+  Создание кода...
