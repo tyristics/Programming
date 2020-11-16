@@ -2,10 +2,8 @@
 #include "Header.h"
 int main()
 {
-    int x;
-    otw( std::cin >> x)
-    std::cout << otw;
-    return 0;
+	long long otwet = otw(10);
+	std::cout << otwet;
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
